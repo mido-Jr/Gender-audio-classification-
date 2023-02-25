@@ -2,6 +2,8 @@ Introduction:
 ======================
     This task aims to determine the Gender of a speaker in the received audio file
 
+![image](https://user-images.githubusercontent.com/72288293/221381687-1154115b-4916-4e2e-8357-c317a4debc20.png)
+
 
 Data Description:
 ======================
